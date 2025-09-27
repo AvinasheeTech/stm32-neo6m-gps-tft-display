@@ -30,10 +30,10 @@ Platform used for firmware development is STM32CubeIDE v1.15.0
 Learn more 👇👇  
   
 Part 2 👇  
-[![STM32_GPS_PART2_Youtube Video](img/gpspt2_thumbnail.png)](https://youtu.be/MgGj3z30gcE)  
+[![STM32_GPS_PART2_Youtube Video](img/gps_pt2_thumbnail.png)](https://youtu.be/MgGj3z30gcE)  
 
 Part 1 👇  
-[![STM32_GPS_PART1_Youtube Video](img/gpspt1_thumbnail.png)](https://youtu.be/T6-8KtngSq4)  
+[![STM32_GPS_PART1_Youtube Video](img/gps_pt1_thumbnail.png)](https://youtu.be/T6-8KtngSq4)  
 
   
 ## ✔️ Requirements
